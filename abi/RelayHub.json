@@ -1,0 +1,21 @@
+[
+  "constructor(address,address,address,address,uint256)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function balanceOf(address) view returns (uint256)",
+  "function baseSlashRateForContravention() view returns (uint256)",
+  "function depositFor(address,uint256)",
+  "function getMinimumStakePerToken() view returns (uint256)",
+  "function getPenalizer() view returns (address)",
+  "function getRelayRegistrar() view returns (address)",
+  "function getStakeManager() view returns (address)",
+  "function gsnToken() view returns (address)",
+  "function isActiveRelayer(address) view returns (bool)",
+  "function isRelayer(address) view returns (bool)",
+  "function owner() view returns (address)",
+  "function penalize(address,uint256)",
+  "function registerNewRelayer(address,uint256)",
+  "function remove(address)",
+  "function renounceOwnership()",
+  "function setMinimumStakes(uint256)",
+  "function transferOwnership(address)"
+]

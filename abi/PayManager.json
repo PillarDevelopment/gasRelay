@@ -1,0 +1,9 @@
+[
+  "function claimGasCompensation()",
+  "function getAccumulatedGasFee() view returns (uint256)",
+  "function getAvailableTokens(address) view returns (uint256)",
+  "function getCosts(address) view returns (uint256)",
+  "function getRate() view returns (uint256)",
+  "function gsnToken() view returns (address)",
+  "function setRate(uint256)"
+]

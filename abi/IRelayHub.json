@@ -1,0 +1,4 @@
+[
+  "function isRelayer(address) view returns (bool)",
+  "function reward(address,address,uint256,bytes,bytes32) view returns (bool)"
+]
